@@ -12,10 +12,10 @@
 </p>
 
 
-<a href="https://github.com/christophermp/christophermp/blob/master/README.md">
+<a href="https://github.com/hrHVN/hrHVN/blob/main/README.md">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hrHVN&show_icons=true&theme=radical&count_private=true&layout=compact" />
 </a>
-<a href="https://github.com/christophermp/christophermp/blob/master/README.md">
+<a href="https://github.com/hrHVN/hrHVN/blob/main/README.md">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrHVN&theme=radical&count_private=true&layout=compact&langs_count=8" />
 </a>
 <!--
