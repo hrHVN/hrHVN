@@ -24,9 +24,9 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/-Linux-%23557C94?style=flat-square&logo=kalilinux&logoColor=white">
 </p>
 
+<hr>
 
 ### Stuff i have put on GitHub
-<hr>
 <a href="https://github.com/hrHVN/hrHVN/blob/main/README.md">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hrHVN&show_icons=true&theme=radical&count_private=true&layout=compact" />
 </a>
