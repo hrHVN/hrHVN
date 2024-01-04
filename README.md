@@ -4,7 +4,11 @@
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Static Badge" src="https://img.shields.io/badge/Shell-Bash-gnubash">
+  <img alt="Bash" src="https://img.shields.io/badge/-!%2Fbin%2Fbash-white?logo=gnubash&labelColor=black">
+  <img alt="Static Badge" src="https://img.shields.io/badge/-PVE-white?logo=proxmox&labelColor=black">
+  <img alt="Static Badge" src="https://img.shields.io/badge/jquery-jquery-white?logo=jquery&labelColor=green">
+  <img alt="Static Badge" src="https://img.shields.io/badge/mysql-mysql-white?logo=jquery">
+
 </p>
 
 
