@@ -14,6 +14,7 @@
   <img alt="Bash" src="https://img.shields.io/badge/-gnubash-%234EAA25?style=flat-square&logo=gnubash&logoColor=white">
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Mikrotikk" src="https://img.shields.io/badge/-Mikrotik-%23293239?style=flat-square&logo=mikrotik&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/-RPI-%2396060C?style=flat-square&logo=pihole&logoColor=white">
 
 </p>
 
