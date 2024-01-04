@@ -6,6 +6,13 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
+
+<a href="https://github.com/christophermp/christophermp/blob/master/README.md">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hrHVN&show_icons=true&theme=radical&count_private=true&layout=compact" />
+</a>
+<a href="https://github.com/christophermp/christophermp/blob/master/README.md">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrHVN&theme=radical&count_private=true&layout=compact&langs_count=8" />
+</a>
 <!--
 **hrHVN/hrHVN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
