@@ -39,7 +39,7 @@
 <hr>
 ### testing
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hrHVN&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hrHVN&repo=Noroff_university_college)](https://github.com/hrHVN/Noroff_university_college)
 <!--
 **hrHVN/hrHVN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
