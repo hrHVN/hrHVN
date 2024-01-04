@@ -4,10 +4,11 @@
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Bash" src="https://img.shields.io/badge/-!%2Fbin%2Fbash-white?logo=gnubash&labelColor=black">
-  <img alt="Static Badge" src="https://img.shields.io/badge/-PVE-white?logo=proxmox&labelColor=black">
-  <img alt="Static Badge" src="https://img.shields.io/badge/jquery-jquery-white?logo=jquery&labelColor=green">
-  <img alt="Static Badge" src="https://img.shields.io/badge/mysql-mysql-white?logo=jquery">
+  <br>
+  <img alt="Bash" src="https://img.shields.io/badge/-gnubash-%234EAA25?style=flat-square&logo=gnubash&logoColor=white">
+  <img alt="Proxmox" src="https://img.shields.io/badge/-PVE-%23E57000?style=flat-square&logo=Proxmox&logoColor=white">
+  <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-%230769AD?style=flat-square&logo=jquery">
+  <img alt="MySql" src="https://img.shields.io/badge/-mysql-%234479A1?style=flat-square&logo=mysql">
 
 </p>
 
