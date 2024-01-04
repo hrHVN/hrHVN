@@ -31,15 +31,12 @@
 <a href="https://github.com/hrHVN/hrHVN/blob/main/README.md">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hrHVN&show_icons=true&theme=radical&count_private=true&layout=compact" />
 </a>
+<br>
 <a href="https://github.com/hrHVN/hrHVN/blob/main/README.md">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrHVN&theme=radical&count_private=true&layout=compact&langs_count=8" />
 </a>
 <hr>
 
-<hr>
-### testing
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hrHVN&repo=Noroff_university_college)](https://github.com/hrHVN/Noroff_university_college)
 <!--
 **hrHVN/hrHVN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
