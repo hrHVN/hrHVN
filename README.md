@@ -5,6 +5,7 @@
   <img alt="JS" src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=white">
   <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-%230769AD?style=flat-square&logo=jquery">
   <img alt="css" src="https://img.shields.io/badge/-CSS-%231572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/-Sequelize-%2352B0E7?style=flat-square&logo=sequelize&logoColor=white">
   <img alt="MySql" src="https://img.shields.io/badge/-mysql-%234479A1?style=flat-square&logo=mysql&logoColor=white">
 </p>
 
@@ -34,6 +35,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrHVN&theme=radical&count_private=true&layout=compact&langs_count=8" />
 </a>
 <hr>
+
+<hr>
+testing
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrHVN)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **hrHVN/hrHVN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
