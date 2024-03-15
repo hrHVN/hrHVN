@@ -1,3 +1,4 @@
+<!-- Icons @ https://simpleicons.org/ -->
 ## As a developer, I am confident with:
 <p>
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
@@ -5,7 +6,7 @@
   <img alt="JS" src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=white">
   <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-%230769AD?style=flat-square&logo=jquery">
   <img alt="css" src="https://img.shields.io/badge/-CSS-%231572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="Static Badge" src="https://img.shields.io/badge/-Sequelize-%2352B0E7?style=flat-square&logo=sequelize&logoColor=white">
+  <img alt="sequelize" src="https://img.shields.io/badge/-Sequelize-%2352B0E7?style=flat-square&logo=sequelize&logoColor=white">
   <img alt="MySql" src="https://img.shields.io/badge/-mysql-%234479A1?style=flat-square&logo=mysql&logoColor=white">
 </p>
 
@@ -15,14 +16,15 @@
   <img alt="Bash" src="https://img.shields.io/badge/-gnubash-%234EAA25?style=flat-square&logo=gnubash&logoColor=white">
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Mikrotikk" src="https://img.shields.io/badge/-Mikrotik-%23293239?style=flat-square&logo=mikrotik&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/-RPI-%2396060C?style=flat-square&logo=pihole&logoColor=white">
+<img alt="pihole" src="https://img.shields.io/badge/-RPI-%2396060C?style=flat-square&logo=pihole&logoColor=white">
 
 </p>
 
 ### In my studies i am exploring:
 <p>
-  <img alt="Static Badge" src="https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/-Linux-%23557C94?style=flat-square&logo=kalilinux&logoColor=white">
+  <img alt="python" src="https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=white">
+  <img alt="kali" src="https://img.shields.io/badge/-Linux-%23557C94?style=flat-square&logo=kalilinux&logoColor=white">
+  <img alt="postfix" src="https://img.shields.io/badge/ubuntu-postfix-gray?style=flat&labelColor=orange">
 </p>
 
 <hr>
